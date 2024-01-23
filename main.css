@@ -1,0 +1,13 @@
+.container{
+    width: 550px;
+    margin-top: 1.5em;
+}
+
+textarea{
+    resize: none;
+}
+
+ form{
+    font-weight: 500;
+    margin:25px 0;
+}
