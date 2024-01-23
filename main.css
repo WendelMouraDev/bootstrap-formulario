@@ -1,3 +1,7 @@
+body{
+    background-color: aquamarine;
+}
+
 .container{
     width: 550px;
     margin-top: 1.5em;
@@ -10,4 +14,5 @@ textarea{
  form{
     font-weight: 500;
     margin:25px 0;
+    cursor: pointer;
 }
